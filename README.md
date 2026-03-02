@@ -2,7 +2,7 @@
 This project is a simple Python application created to calculate the area of a circle based on user input. It features a modern terminal box-design and uses the math library for high-precision calculations.
 
 # File Structure
-circle_area.py – Main calculation script using the Chua variable naming convention.
+app.py – Main calculation script using the Chua variable naming convention.
 
 README.md – Project documentation.
 
