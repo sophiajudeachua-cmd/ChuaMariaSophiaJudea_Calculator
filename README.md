@@ -9,5 +9,5 @@ README.md – Project documentation.
 # How to Run the Application Locally
 1. Make sure Python is installed.
 2. Open a terminal in the project folder.
-3. Run the application: python circle_area.py
+3. Run the application: python app.py
 4. Enter the radius when prompted to see the calculated result.
